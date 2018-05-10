@@ -1,0 +1,20 @@
+C:\Users\Veronica Echezarreta\OneDrive - Universidad Católica del Uruguay\2do\Programacion II\Windows Forms\10. Escribir archivo\10. Escribir archivo\obj\Debug\10. Escribir archivo.csprojResolveAssemblyReference.cache
+C:\Users\Veronica Echezarreta\OneDrive - Universidad Católica del Uruguay\2do\Programacion II\Windows Forms\10. Escribir archivo\10. Escribir archivo\obj\Debug\_10.Escribir_archivo.Form1.resources
+C:\Users\Veronica Echezarreta\OneDrive - Universidad Católica del Uruguay\2do\Programacion II\Windows Forms\10. Escribir archivo\10. Escribir archivo\obj\Debug\_10.Escribir_archivo.Properties.Resources.resources
+C:\Users\Veronica Echezarreta\OneDrive - Universidad Católica del Uruguay\2do\Programacion II\Windows Forms\10. Escribir archivo\10. Escribir archivo\obj\Debug\10. Escribir archivo.csproj.GenerateResource.cache
+C:\Users\Veronica Echezarreta\OneDrive - Universidad Católica del Uruguay\2do\Programacion II\Windows Forms\10. Escribir archivo\10. Escribir archivo\obj\Debug\10. Escribir archivo.csproj.CoreCompileInputs.cache
+C:\Users\Veronica Echezarreta\OneDrive - Universidad Católica del Uruguay\2do\Programacion II\Windows Forms\10. Escribir archivo\10. Escribir archivo\bin\Debug\_10.Escribir_archivo.exe.config
+C:\Users\Veronica Echezarreta\OneDrive - Universidad Católica del Uruguay\2do\Programacion II\Windows Forms\10. Escribir archivo\10. Escribir archivo\bin\Debug\_10.Escribir_archivo.exe
+C:\Users\Veronica Echezarreta\OneDrive - Universidad Católica del Uruguay\2do\Programacion II\Windows Forms\10. Escribir archivo\10. Escribir archivo\bin\Debug\_10.Escribir_archivo.pdb
+C:\Users\Veronica Echezarreta\OneDrive - Universidad Católica del Uruguay\2do\Programacion II\Windows Forms\10. Escribir archivo\10. Escribir archivo\obj\Debug\_10.Escribir_archivo.exe
+C:\Users\Veronica Echezarreta\OneDrive - Universidad Católica del Uruguay\2do\Programacion II\Windows Forms\10. Escribir archivo\10. Escribir archivo\obj\Debug\_10.Escribir_archivo.pdb
+C:\Users\Vero\Documents\c sharp\Windows Forms\10. Escribir archivo\10. Escribir archivo\bin\Debug\_10.Escribir_archivo.exe.config
+C:\Users\Vero\Documents\c sharp\Windows Forms\10. Escribir archivo\10. Escribir archivo\bin\Debug\_10.Escribir_archivo.exe
+C:\Users\Vero\Documents\c sharp\Windows Forms\10. Escribir archivo\10. Escribir archivo\bin\Debug\_10.Escribir_archivo.pdb
+C:\Users\Vero\Documents\c sharp\Windows Forms\10. Escribir archivo\10. Escribir archivo\obj\Debug\10. Escribir archivo.csprojAssemblyReference.cache
+C:\Users\Vero\Documents\c sharp\Windows Forms\10. Escribir archivo\10. Escribir archivo\obj\Debug\_10.Escribir_archivo.Form1.resources
+C:\Users\Vero\Documents\c sharp\Windows Forms\10. Escribir archivo\10. Escribir archivo\obj\Debug\_10.Escribir_archivo.Properties.Resources.resources
+C:\Users\Vero\Documents\c sharp\Windows Forms\10. Escribir archivo\10. Escribir archivo\obj\Debug\10. Escribir archivo.csproj.GenerateResource.cache
+C:\Users\Vero\Documents\c sharp\Windows Forms\10. Escribir archivo\10. Escribir archivo\obj\Debug\10. Escribir archivo.csproj.CoreCompileInputs.cache
+C:\Users\Vero\Documents\c sharp\Windows Forms\10. Escribir archivo\10. Escribir archivo\obj\Debug\_10.Escribir_archivo.exe
+C:\Users\Vero\Documents\c sharp\Windows Forms\10. Escribir archivo\10. Escribir archivo\obj\Debug\_10.Escribir_archivo.pdb
